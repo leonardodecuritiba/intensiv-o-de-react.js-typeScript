@@ -4,7 +4,9 @@ function App() {
   return (
     <div>
       <Title title="Live de React do Full Cycle" />
-      <Description color="cyan">Live de React do Full Cycle</Description>
+      <Description color="cyan" variant="sm">
+        Live de React do Full Cycle
+      </Description>
     </div>
   );
 }
